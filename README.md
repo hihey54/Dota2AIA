@@ -15,9 +15,9 @@ A preprint version of our paper can be found here: [arXiv link](https://arxiv.or
 
 This repository contains 3 folders:
 
-* **supplementary**, which contains some supplementary documents for better understanding our paper (and referenced in our paper);
-* **correlation_heatmaps**, which contains all the correlation heatmaps of our analyses;
-* **code**, which contains the code we developed for our analyses.
+* **supplementary**, containing supplementary documents for better understanding our contribution (and referenced in our paper);
+* **correlation_heatmaps**, containing all the correlation heatmaps of our analyses;
+* **code**, containing the code we developed for our analyses.
 
 For privacy reasons, we cannot disclose our dataset.
 
